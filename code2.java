@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     boolean hasArrayTwoCandidates(int arr[], int n, int x) {
         Arrays.sort(arr);
